@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B00E3EFE2C84A7040020A6BD /* HomeyWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeyWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B00E3EFE2C84A7040020A6BD /* Homey Work.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Homey Work.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B00E3F012C84A7040020A6BD /* HomeyWorkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeyWorkApp.swift; sourceTree = "<group>"; };
 		B00E3F032C84A7040020A6BD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B00E3F052C84A7050020A6BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		B00E3EFF2C84A7040020A6BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B00E3EFE2C84A7040020A6BD /* HomeyWork.app */,
+				B00E3EFE2C84A7040020A6BD /* Homey Work.app */,
 				B00E3F0E2C84A7050020A6BD /* HomeyWorkTests.xctest */,
 				B00E3F182C84A7050020A6BD /* HomeyWorkUITests.xctest */,
 			);
@@ -130,9 +130,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B00E3EFD2C84A7040020A6BD /* HomeyWork */ = {
+		B00E3EFD2C84A7040020A6BD /* Homey Work */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B00E3F222C84A7050020A6BD /* Build configuration list for PBXNativeTarget "HomeyWork" */;
+			buildConfigurationList = B00E3F222C84A7050020A6BD /* Build configuration list for PBXNativeTarget "Homey Work" */;
 			buildPhases = (
 				B00E3EFA2C84A7040020A6BD /* Sources */,
 				B00E3EFB2C84A7040020A6BD /* Frameworks */,
@@ -142,9 +142,9 @@
 			);
 			dependencies = (
 			);
-			name = HomeyWork;
+			name = "Homey Work";
 			productName = HomeyWork;
-			productReference = B00E3EFE2C84A7040020A6BD /* HomeyWork.app */;
+			productReference = B00E3EFE2C84A7040020A6BD /* Homey Work.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B00E3F0D2C84A7050020A6BD /* HomeyWorkTests */ = {
@@ -219,7 +219,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B00E3EFD2C84A7040020A6BD /* HomeyWork */,
+				B00E3EFD2C84A7040020A6BD /* Homey Work */,
 				B00E3F0D2C84A7050020A6BD /* HomeyWorkTests */,
 				B00E3F172C84A7050020A6BD /* HomeyWorkUITests */,
 			);
@@ -284,12 +284,12 @@
 /* Begin PBXTargetDependency section */
 		B00E3F102C84A7050020A6BD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B00E3EFD2C84A7040020A6BD /* HomeyWork */;
+			target = B00E3EFD2C84A7040020A6BD /* Homey Work */;
 			targetProxy = B00E3F0F2C84A7050020A6BD /* PBXContainerItemProxy */;
 		};
 		B00E3F1A2C84A7050020A6BD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B00E3EFD2C84A7040020A6BD /* HomeyWork */;
+			target = B00E3EFD2C84A7040020A6BD /* Homey Work */;
 			targetProxy = B00E3F192C84A7050020A6BD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -560,7 +560,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B00E3F222C84A7050020A6BD /* Build configuration list for PBXNativeTarget "HomeyWork" */ = {
+		B00E3F222C84A7050020A6BD /* Build configuration list for PBXNativeTarget "Homey Work" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B00E3F232C84A7050020A6BD /* Debug */,
